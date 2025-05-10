@@ -1,1 +1,1 @@
-# mental-health-checker
+# Wine Quality Predictor
